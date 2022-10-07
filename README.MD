@@ -7,8 +7,8 @@ II. Core Features:
 - City Darmstadt layout
 - Pedestrians simulation
     * Massive Rendering (GPU Instance)
-    * Dijkstra and A* path finding algorithm with an optimized heap-data structure optimization
-    * Recast graph(Navigation mesh) as path data (auto scan map)
+    * Dijkstra and A* path finding algorithm with an optimized heap-data structure
+    * Recast graph(Navigation mesh) as path data (automatically scan map for data)
 - Vehicle simulation
     * Multithreading Logic Handling
 - Traffic System
