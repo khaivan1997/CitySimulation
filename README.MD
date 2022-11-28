@@ -14,7 +14,10 @@ II. Core Features:
 - Traffic System
 - Multithreading Logic Handling
 
+Thesis:[Uploading Smart_City_Simulation_in_VR.pdf…]()
+
 Full unity project and thesis : https://drive.google.com/file/d/1XZ5ccZpDsx8MGwNTHh98G8IdrA1ddecA/view
+
 
 Demos:
 
